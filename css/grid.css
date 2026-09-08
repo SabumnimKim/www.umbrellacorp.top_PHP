@@ -2,9 +2,8 @@ body
 {
     margin: 0px;
 }
-a:link { color:#000000; text-decoration: none; }
-a:visited { color: #000000; text-decoration: none; }
-a:active { color: #000000; text-decoration: none; }
+a:link { color:#ffffff; text-decoration: none; }
+a:visited { color:#ffffff; text-decoration: none; }
 a:hover { color:#000000; text-decoration: underline; }
 
 .grid-container
@@ -39,7 +38,7 @@ a:hover { color:#000000; text-decoration: underline; }
 {
     grid-column: span 4;
     background-color: #8bb3c5;
-    /* background-image: url(../images/breadcrum01.jpg); */
+    background-image: url(../images/breadcrum01.jpg);
     position: relative;  
 }
 .breadcrumimage
@@ -136,7 +135,6 @@ a:hover { color:#000000; text-decoration: underline; }
 {
     background-color: white;
 }
-
 .main
 {
     padding: 20px;
